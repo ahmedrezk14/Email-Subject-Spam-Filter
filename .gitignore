@@ -1,0 +1,165 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environments
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+.venv
+
+
+# IDE and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+*.sublime-project
+*.sublime-workspace
+.project
+.pydevproject
+.settings/
+*.code-workspace
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints
+.jupyter/
+.jupyterlab-settings/
+
+# IPython
+profile_default/
+ipython_config.py
+
+# PyCharm
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Data and Models
+data/raw/
+data/processed/*.csv
+data/processed/*.pkl
+data/processed/*.json
+models/*.joblib
+models/*.pkl
+models/*.pickle
+models/*.h5
+models/*.onnx
+
+# Output and Results
+*.png
+*.jpg
+*.jpeg
+*.pdf
+*.eps
+outputs/
+results/
+plots/
+reports/
+
+# Kaggle
+kaggle.json
+
+# OS Files
+Thumbs.db
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Temporary Files
+*.tmp
+*.temp
+*.bak
+*.backup
+*.log
+*.pot
+
+# Coverage
+.coverage
+.coverage.*
+htmlcov/
+
+# Testing
+.pytest_cache/
+.tox/
+nosetests.xml
+coverage.xml
+*.cover
+
+# Environments
+.env.local
+.env.*.local
+
+# Package Files
+*.tar
+*.tar.gz
+*.zip
+*.rar
+*.7z
+
+# Editor config
+.editorconfig
+
+# OS specific
+.cache/
+
+# Project specific
+*.csv.bak
+*.xlsx
+*.xls
+old_versions/
+archive/
+
+# Large files
+*.pkl
+*.pickle
+*.dill
+*.h5
+*.npy
+*.npz
+
+# Sensitive data
+*.key
+*.pem
+*.p12
+credentials.json
+.credentials
+
+# Debug
+.debug
+debug/
+
+# Docker
+.dockerignore
+Dockerfile
+
+# Git
+.gitattributes
+.env
